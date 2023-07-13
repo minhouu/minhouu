@@ -4,7 +4,7 @@ Currently On
 
 Leetcode
 ----
-![Leetcode Stats](https://leetcard.jacoblin.cool/gongseulnam)
+![Leetcode Stats](https://leetcard.jacoblin.cool/gongseulnam?ext=activity)
 
 <!--
 **minhouu/minhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
