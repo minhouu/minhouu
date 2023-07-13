@@ -2,6 +2,10 @@ Currently On
 ----
 [PDF Summary Proj.](https://github.com/unknownburphy/pdf_summary_frontend)
 
+Leetcode
+----
+![Leetcode Stats](https://leetcard.jacoblin.cool/gongseulnam)
+
 <!--
 **minhouu/minhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
