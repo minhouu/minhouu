@@ -1,5 +1,5 @@
 ### 
-<img src="https://github-readme-stats.vercel.app/api?minhouu=fhsi1&show_icons=true&theme=radical" alt="YuJeanCho's github stats" /></a> 
+<img src="https://github-readme-stats.vercel.app/api?username=minhouu&show_icons=true&theme=radical" alt="YuJeanCho's github stats" /></a> 
 
 <!--
 **minhouu/minhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
