@@ -1,7 +1,6 @@
-###Currently On
-
+Currently On
 ----
-[PDF summary proj.](https://github.com/unknownburphy/pdf_summary_frontend)
+[PDF Summary Proj.](https://github.com/unknownburphy/pdf_summary_frontend)
 
 <!--
 **minhouu/minhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
