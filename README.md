@@ -1,6 +1,7 @@
 Currently On
 ----
-[PDF Summary Proj.](https://github.com/unknownburphy/pdf_summary_frontend)
+[PDF Summary Proj.](https://pdf-summary-frontend.vercel.app/)
+[PDF Summary Proj. Repo](https://github.com/unknownburphy/pdf_summary_frontend)
 
 Leetcode
 ----
