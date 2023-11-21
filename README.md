@@ -1,8 +1,14 @@
-Currently On
+Before
 ----
 [PDF Summary Project](https://pdf-summary-frontend.vercel.app/)
 
 [Repository](https://github.com/unknownburphy/pdf_summary_frontend)
+
+Currently On
+----
+[SSAFIT_Backend](https://github.com/minhouu/SSAFIT_Backend) with Spring Boot 2.7(MyBatis), MySql
+
+[SSAFIT_Frontend](https://github.com/minhouu/SSAFIT_Frontend) with Vue.js 3
 
 Leetcode
 ----
