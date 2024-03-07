@@ -12,9 +12,6 @@ Currently On
 
 **[SSAFIT_Frontend](https://github.com/minhouu/SSAFIT_Frontend) with Vue.js 3**
 
-Leetcode
-----
-![Leetcode Stats](https://leetcard.jacoblin.cool/gongseulnam?ext=activity)
 
 <!--
 **minhouu/minhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
