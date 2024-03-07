@@ -8,7 +8,7 @@ Before
 
 Currently On
 ----
-**[Lunit](https://www.lunit.io/) Oncology Product Dept. SQA Engineer
+**[Lunit](https://www.lunit.io/) Oncology Product Dept. SQA Engineer**
 
 
 <!--
