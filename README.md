@@ -8,9 +8,7 @@ Before
 
 Currently On
 ----
-**[SSAFIT_Backend](https://github.com/minhouu/SSAFIT_Backend) with Spring Boot 2.7(MyBatis), MySql**
-
-**[SSAFIT_Frontend](https://github.com/minhouu/SSAFIT_Frontend) with Vue.js 3**
+**[Lunit](https://www.lunit.io/) Oncology Product Dept. SQA Engineer
 
 
 <!--
