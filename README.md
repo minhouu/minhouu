@@ -6,6 +6,8 @@ Before
 
 *Unfortunately, since the arrival of GPT-4 it has become less useful...*
 
+*I invalidated the api key so it doesn't work anymore.. 😢*
+
 Currently On
 ----
 **[Lunit](https://www.lunit.io/) Oncology Product Dept. SQA Engineer**
